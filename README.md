@@ -1,3 +1,3 @@
-#Fashion Store 
+# Fashion Store 
 
-its a e commerce website 
+Its a e commerce website , Where you can browse Fashion Products
